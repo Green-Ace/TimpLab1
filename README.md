@@ -7,7 +7,9 @@
 4) tree -a   ![изображение](https://user-images.githubusercontent.com/112771063/223426783-fee941c8-ba38-40de-aed9-5ecb8620c4f6.png)
 
 5)tree -P *.hpp
+
   tree -P *.cpp
+  
   62614 - 14914 - 13815 = 77923
   
   6) find $(pwd) -name any.hpp ![изображение](https://user-images.githubusercontent.com/112771063/223428636-b081a497-9046-47c5-a9af-c45d5c8df572.png)
